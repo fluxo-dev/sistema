@@ -1,0 +1,6 @@
+/.docker
+/vendor
+
+/tmp
+
+/app/database/**/*.db
